@@ -1,5 +1,11 @@
 # 实践出真知
 
+## 如何查看端口占用情况
+```shell
+netstat -ano|find "8000"
+```
+
+
 - Angularjs
 - Angular
 - Vue
